@@ -1,0 +1,9 @@
+{
+	"name": "factpranay2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02692004-f8cd-4da2-b22a-3752e5379c2c",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
